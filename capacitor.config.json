@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appPizzaria",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
